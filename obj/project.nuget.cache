@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JO+ZUnjA6VE=",
+  "success": true,
+  "projectFilePath": "/Users/samjenson/RiderProjects/Dice/Dice.csproj",
+  "expectedPackageFiles": [
+    "/Users/samjenson/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/Users/samjenson/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "/Users/samjenson/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.22/microsoft.netcore.app.host.osx-arm64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
