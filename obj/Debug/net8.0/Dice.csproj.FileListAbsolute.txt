@@ -12,3 +12,4 @@
 /Users/samjenson/RiderProjects/Dice/obj/Debug/net8.0/Dice.pdb
 /Users/samjenson/RiderProjects/Dice/obj/Debug/net8.0/Dice.genruntimeconfig.cache
 /Users/samjenson/RiderProjects/Dice/obj/Debug/net8.0/ref/Dice.dll
+/Users/samjenson/RiderProjects/Dice/obj/Debug/net8.0/Dice.sourcelink.json
